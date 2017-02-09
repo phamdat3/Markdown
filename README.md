@@ -25,7 +25,7 @@
   </ul>
 ## Nội dung
 ###I. Github
- ![mô tả]http://prnt.sc/e64jrd
+ ![mô tả](http://prnt.sc/e64jrd)
  <img src ="http://prnt.sc/e64jrd" tipe ="img.jpg">
 ####1. Nội dung
  GitHub là kho lưu trữ các mã nguồn mở, tài liệu.
