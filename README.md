@@ -25,9 +25,12 @@
   </ul>
 ## Nội dung
 ###I. Github
- http://prnt.sc/e64jrd
+ <img src ="http://prnt.sc/e64jrd">
 ####1. Nội dung
  GitHub là kho lưu trữ các mã nguồn mở, tài liệu.
 ####2. Công dụng
  GitHub chủ yếu được sử dụng để lưu trữ mã nguồn phần mềm, nhưng cũng thường được sử dụng với nhiều loại tập tin.
-
+###II. Tạo repository đặt tên là `Web_dev`
+ <img src ="http://prntscr.com/e64meb">
+ <img src ="http://prntscr.com/e64o3u">
+ <img src ="http://prntscr.com/e64ooh">
