@@ -24,9 +24,8 @@
     <li>Tablesgenerator</li>
   </ul>
 ## Nội dung
-###I. Github
- ![mô tả](http://prnt.sc/e64jrd)
- <img src ="http://prnt.sc/e6ed4u">
+###I. Github 
+ <img src ="http://prntscr.com/e6ed4u">
 ####1. Nội dung
  GitHub là kho lưu trữ các mã nguồn mở, tài liệu.
 ####2. Công dụng
