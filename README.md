@@ -38,10 +38,10 @@
  - Màn hình hiện lên
  <img src ="http://prntscr.com/e64o3u" tipe ="img.jpg">
  - Phần **Repository nem** bạn điền tên kho bạn muốn tạo. Mình đặt là `Web_dev`.
-- Có hai tùy chọn là **Punlic** nghĩa là mọi người đều có thể thấy nội dung của repository này, còn **Private** là chỉ mình bạn xem được nội dung này.
-- Còn 1 tùy chọn nữa đó là **Initialize this repository with a README** là repository có mặc định thêm 1 file README.md.
-- Cuối cùng bạn nhấp vào **Create repository**
-- Như vậy là repository `Web_dev` đã được cài đặt thành công.  
+ - Có hai tùy chọn là **Punlic** nghĩa là mọi người đều có thể thấy nội dung của repository này, còn **Private** là chỉ mình bạn xem được nội dung này.
+ - Còn 1 tùy chọn nữa đó là **Initialize this repository with a README** là repository có mặc định thêm 1 file README.md.
+ - Cuối cùng bạn nhấp vào **Create repository**
+ - Như vậy là repository `Web_dev` đã được cài đặt thành công.  
  <img src ="http://prntscr.com/e64ooh" tipe ="img.jpg">
 ###III. Markdown
  ####1. Nội dung
