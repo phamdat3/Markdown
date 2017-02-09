@@ -43,9 +43,9 @@
 - Cuối cùng bạn nhấp vào **Create repository**
 - Như vậy là repository `Web_dev` đã được cài đặt thành công.  
  <img src ="http://prntscr.com/e64ooh" tipe ="img.jpg">
-III. Markdown
+###III. Markdown
  ####1. Nội dung
   Markdown là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành HTML và nhiều định dạng khác.
  ####2. Công dụng
  Markdown dùng để tạo các tập tin readme, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
- IV. Cú pháp thường gặp
+###IV. Cú pháp thường gặp
