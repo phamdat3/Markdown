@@ -28,7 +28,7 @@
 
 ## Nội dung.
 
-###<id="Github" I. Github>
+### id="Github" I. Github
 
 ###I. Github. 
 
