@@ -18,8 +18,10 @@
    <li><a href="#Công dụng2">Công dụng</a></li>
   </ul>
 <a href="#cu phap">Cú pháp thường gặp</a>
+
 <a href="#cài đặt">Cài đặt Sublime text</a>
-**- các công cụ viết Markdown khác** 
+
+<a herf="cong cu">các công cụ viết Markdown khác</a> 
   <ul>
     <li>Stackedit</li>
     <li>Jbt</li>
@@ -64,6 +66,7 @@
 
   <img src ="http://prntscr.com/e64ooh">
 
+<id ="Markdown">
 ###III. Markdown.
 
 <id ="Nội dung2">
@@ -76,6 +79,7 @@
 
  Markdown dùng để tạo các tập tin readme, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
 
+<id ="cu phap">
 ###IV. Cú pháp thường gặp.
 
 ####1. Thẻ tiêu đề
@@ -212,3 +216,19 @@ Kết quả là:
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+
+###V. Tìm hiểu các công cụ viết markdown khác
+
+[Stackedit](https://stackedit.io/editor)
+
+<img src ="http://prntscr.com/e70l1u">
+
+[Markdown Editor](https://jbt.github.io/markdown-editor/)
+
+<img src="http://prntscr.com/e70ll2">
+
+[Tablesgenerator](http://www.tablesgenerator.com/markdown_tables)
+
+<img src="http://prntscr.com/e70lt7">
+
+---
