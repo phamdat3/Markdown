@@ -6,7 +6,7 @@
 
 ## Mục lục 
 
-<a href="#Github">- Github</a>
+<a href="#Github">Github</a>
   <ul>
     <li>Nội dung</li>
     <li>Công dụng</li>
@@ -28,8 +28,7 @@
 
 ## Nội dung.
 
-### id="Github" I. Github
-
+<id ="Github">
 ###I. Github. 
 
  <img src ="http://prntscr.com/e6ed4u">
@@ -47,20 +46,20 @@
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
  - Vào tài khoản của bạn.  
 
-  <img src ="http://prntscr.com/e64meb" tipe ="img.jpg">
+  <img src ="http://prntscr.com/e64meb">
 
  - Nhấp vào dấu cộng và chọn **New repository**.
  - Màn hình hiện lên.
 
-  <img src ="http://prntscr.com/e64o3u" tipe ="img.jpg">
+  <img src ="http://prntscr.com/e64o3u">
 
  - Phần **Repository name** bạn điền tên kho bạn muốn tạo. Mình đặt là `Web_dev`.
  - Có hai tùy chọn là **Punlic** nghĩa là mọi người đều có thể thấy nội dung của repository này, còn **Private** là chỉ mình bạn xem được nội dung này.
  - Còn 1 tùy chọn nữa đó là **Initialize this repository with a README** là repository có mặc định thêm 1 file README.md.
- - Cuối cùng bạn nhấp vào **Create repository**.
+ - Cuối cùng bạn nhấp vào **Create repository** .
  - Như vậy là repository `Web_dev` đã được cài đặt thành công.
 
-  <img src ="http://prntscr.com/e64ooh" tipe ="img.jpg">
+  <img src ="http://prntscr.com/e64ooh">
 
 ###III. Markdown.
 
