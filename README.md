@@ -25,10 +25,8 @@
     <li>Jbt</li>
     <li>Tablesgenerator</li>
   </ul>
-<<id="Github"> Nội dung>
-## Nội dung.
 
-###I. Github. 
+## Nội dung.
 
  <img src ="http://prntscr.com/e6ed4u">
 
