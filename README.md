@@ -21,11 +21,11 @@
 
 <a href="#cài đặt">Cài đặt Sublime text</a>
 
-<a herf="cong cu">các công cụ viết Markdown khác</a> 
+<a herf="#cong cu">Các công cụ viết Markdown khác</a> 
   <ul>
-    <li><a herf="1">Stackedit</a></li>
-    <li><a herf="2">Jbt</a></li>
-    <li><a herf="3">Tablesgenerator</a></li>
+    <li><a herf="#1">Stackedit</a></li>
+    <li><a herf="#2">Jbt</a></li>
+    <li><a herf="#3">Tablesgenerator</a></li>
   </ul>
 
 ## Nội dung.
@@ -237,4 +237,6 @@ Kết quả là:
 
 <img src="http://prntscr.com/e70lt7">
 
+---
+## Hoàn thành Task 01
 ---
