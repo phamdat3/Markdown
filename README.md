@@ -8,17 +8,17 @@
 
 <a href="#Github">Github</a>
   <ul>
-    <li>Nội dung</li>
-    <li>Công dụng</li>
+    <li><a href="#Nội dung1">Nội dung</a></li>
+    <li><a href="#Công dụng1">Công dụng</a></li>
   </ul>
-**- Tạo repository đặt tên là `Web_dev`**
-**- Markdown** 
+<a href="#repository1">Tạo repository đặt tên là `Web_dev`</a>
+<a href="#Markdown">Markdown</a> 
   <ul>
-    <li>Nội dung</li>
-    <li>Công dụng</li>
+   <li><a href="#Nội dung2">Nội dung</a></li>
+   <li><a href="#Công dụng2">Công dụng</a></li>
   </ul>
-**- Cú pháp thường gặp**
-**-Cài đặt Sublime text** 
+<a href="#cu phap">Cú pháp thường gặp</a>
+<a href="#cài đặt">Cài đặt Sublime text</a>
 **- các công cụ viết Markdown khác** 
   <ul>
     <li>Stackedit</li>
@@ -33,14 +33,17 @@
 
  <img src ="http://prntscr.com/e6ed4u">
 
+<id ="Nội dung1">
 ####1. Nội dung.
 
  GitHub là kho lưu trữ các mã nguồn mở, tài liệu.
 
+<id ="Công dụng1">
 ####2. Công dụng.
 
  GitHub chủ yếu được sử dụng để lưu trữ mã nguồn phần mềm, nhưng cũng thường được sử dụng với nhiều loại tập tin.
 
+<id ="repository1">
 ###II. Tạo repository đặt tên là `Web_dev`.
 
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
@@ -63,10 +66,12 @@
 
 ###III. Markdown.
 
+<id ="Nội dung2">
 ####1. Nội dung.
 
   Markdown là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành HTML và nhiều định dạng khác.
 
+<id ="Công dụng2">
 ####2. Công dụng.
 
  Markdown dùng để tạo các tập tin readme, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
