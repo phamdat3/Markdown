@@ -217,7 +217,32 @@ Kết quả là:
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
-###V. Tìm hiểu các công cụ viết markdown khác
+<id="cài đặt">
+
+###V. Cài đặt Sublime text
+
+- Vào đường linh https://www.sublimetext.com/3 để Download file tương ứng với máy bạn đang dùng.
+
+<img src="http://prntscr.com/e6fr6f">
+
+- Tải về và cài mặc định.
+- Chúng ta phải cài thêm [Package Control](https://packagecontrol.io/)
+cho Sublime Text. Hướng dẫn cài đặt **Package Control** tại https://www.youtube.com/watch?v=sy0jf7TJTCM&t=36s.
+- Giờ chúng ta bật **Sublime Text** lên và trong phần **Preferences** chúng ta chọn **Package Control**.
+
+<img src="http://prntscr.com/e6fr8l">
+
+- Sau đó ta chọn **Install Package**
+
+<img src="http://prntscr.com/e6fr9i">
+
+- Giờ ta chỉ cần gõ các công cụ hỗ trợ như **ExportHTML, MarkdownPreview,...** và chọn là song.
+
+<img src="http://prntscr.com/e6fra5">
+
+<id="cong cu">
+
+###VI. Tìm hiểu các công cụ viết markdown khác
 
 <id="1">
 
