@@ -80,15 +80,16 @@
  Ví dụ:
 
 `#1.Tiêu đề cấp 1`
- #1.Tiêu đề cấp 1
+
+#1.Tiêu đề cấp 1
  
 `##2.Tiêu đề cấp 2`
 
- 2.Tiêu đề cấp 2
+##2.Tiêu đề cấp 2
 
 `######6.Tiêu đề cấp 6`
 
- ######6.Tiêu đề cấp 6
+######6.Tiêu đề cấp 6
 
 ####2. Chèn link, chèn ảnh
  
@@ -113,18 +114,27 @@
 ####3. Ký tự in đậm, in nghiêng
 
  Để in đậm một đoạn text bạn chỉ cần làm như sau:
+
  `**in đậm**`
+ 
  **in đậm**
+ 
  Để in nghiên một đoạn text bạn chỉ cần làm như sau:
+ 
  `*in nghiêng*`
+ 
  *in nghiêng*
 
 ####4. Trích dẫn, bo chữ
  
  Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:
- ` `đoạn cần bo` `
- Kết quả là: 
+ `
  `đoạn cần bo`
+ `
+ Kết quả là: 
+ 
+ `đoạn cần bo`
+ 
  Để làm nổi bật một đoạn, chẳng hạn như một đoạn shell hay file cấu hình bạn có thể sử dụng cú pháp như ví dụ sau:
  
  ```sh
