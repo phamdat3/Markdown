@@ -23,9 +23,9 @@
 
 <a herf="cong cu">các công cụ viết Markdown khác</a> 
   <ul>
-    <li>Stackedit</li>
-    <li>Jbt</li>
-    <li>Tablesgenerator</li>
+    <li><a herf="1">Stackedit</a></li>
+    <li><a herf="2">Jbt</a></li>
+    <li><a herf="3">Tablesgenerator</a></li>
   </ul>
 
 ## Nội dung.
@@ -219,13 +219,19 @@ Kết quả là:
 
 ###V. Tìm hiểu các công cụ viết markdown khác
 
+<id="1">
+
 [Stackedit](https://stackedit.io/editor)
 
 <img src ="http://prntscr.com/e70l1u">
 
+<id="2">
+
 [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
 <img src="http://prntscr.com/e70ll2">
+
+<id="3">
 
 [Tablesgenerator](http://www.tablesgenerator.com/markdown_tables)
 
