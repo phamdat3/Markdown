@@ -6,22 +6,20 @@
 
 ## Mục lục 
 
-<a href="#Github">Github</a>
+<a href="#Github">1.Github</a>
   <ul>
     <li><a href="#Nội dung1">Nội dung</a></li>
     <li><a href="#Công dụng1">Công dụng</a></li>
   </ul>
-<a href="#repository1">Tạo repository đặt tên là `Web_dev`</a>
-<a href="#Markdown">Markdown</a> 
+<a href="#repository1">2.Tạo repository đặt tên là `Web_dev`</a> 
+<a href="#Markdown">3.Markdown</a> 
   <ul>
    <li><a href="#Nội dung2">Nội dung</a></li>
    <li><a href="#Công dụng2">Công dụng</a></li>
   </ul>
-<a href="#cu phap">Cú pháp thường gặp</a>
-
-<a href="#cài đặt">Cài đặt Sublime text</a>
-
-<a href="#cong cu">Các công cụ viết Markdown khác</a> 
+<a href="#cu phap">4.Cú pháp thường gặp</a> 
+<a href="#cài đặt">5.Cài đặt Sublime text</a> 
+<a href="#cong cu">6.Các công cụ viết Markdown khác</a>
   <ul>
     <li><a href="#1">Stackedit</a></li>
     <li><a href="#2">Jbt</a></li>
@@ -32,7 +30,8 @@
 
 <id ="Github">
 ###I. Github. 
-
+  
+ <img src ="http://1.bp.blogspot.com/-3oZ7k46VeG4/Vk0d1nmNODI/AAAAAAAAC20/3B1E5A8BDC4/s1600/hinh-anh-dep-ve-dong-vat..jpg"> 
  <img src ="http://prntscr.com/e6ed4u.jpg">
 
 <id ="Nội dung1">
