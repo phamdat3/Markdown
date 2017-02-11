@@ -49,7 +49,7 @@
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
  - Vào tài khoản của bạn.  
 
-  <img src ="https://www.facebook.com/photo.php?fbid=1828907477381692&set=a.1439646746307769.1073741831.100007873712532&type=3"/>
+  <img src =""/>
 
  - Nhấp vào dấu cộng và chọn **New repository**.
  - Màn hình hiện lên.
@@ -216,7 +216,6 @@ Kết quả là:
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
 <id="cài đặt">
-
 ###V. Cài đặt Sublime text
 
 - Vào đường linh https://www.sublimetext.com/3 để Download file tương ứng với máy bạn đang dùng.
@@ -243,22 +242,19 @@ cho Sublime Text. Hướng dẫn cài đặt **Package Control** tại https://w
 ###VI. Tìm hiểu các công cụ viết markdown khác
 
 <id="1">
-
 [Stackedit](https://stackedit.io/editor)
 
-<img src ="http://prntscr.com/e70l1u.jpg">
+<img src ="http://4.bp.blogspot.com/-hs3_SsTZFgw/UsKTTtNWqiI/AAAAAAAArPE/dB4cAkuicSc/s1600/StackEdit.png">
 
 <id="2">
-
 [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
-<img src="http://prntscr.com/e70ll2.jpg">
+<img src="https://camo.githubusercontent.com/34f55bf1b3200576253cfd348ff20a35e1e946c1/687474703a2f2f686f6d65706167652e756e697669652e61632e61742f7765726e65722e726f6269747a612f6d61726b646f776e2f73637265656e73686f742e706e67">
 
 <id="3">
-
 [Tablesgenerator](http://www.tablesgenerator.com/markdown_tables)
 
-<img src="http://prntscr.com/e70lt7.jpg">
+<img src="http://pic.accessify.com/thumbnails/777x423/t/tablesgenerator.com.png">
 
 ---
 ## Hoàn thành Task 01
