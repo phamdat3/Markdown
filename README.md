@@ -51,12 +51,12 @@
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
  - Vào tài khoản của bạn.  
 
-  <img src ="http://prntscr.com/e64meb.jpg">
+  <img src ="http://prntscr.com/e64meb.png"/>
 
  - Nhấp vào dấu cộng và chọn **New repository**.
  - Màn hình hiện lên.
 
-  <img src ="http://prntscr.com/e64o3u.jpg">
+  <img src ="http://prntscr.com/e64o3u.png">
 
  - Phần **Repository name** bạn điền tên kho bạn muốn tạo. Mình đặt là `Web_dev`.
  - Có hai tùy chọn là **Punlic** nghĩa là mọi người đều có thể thấy nội dung của repository này, còn **Private** là chỉ mình bạn xem được nội dung này.
@@ -64,9 +64,9 @@
  - Cuối cùng bạn nhấp vào **Create repository** .
  - Như vậy là repository `Web_dev` đã được cài đặt thành công.
 
-  <img src ="http://prntscr.com/e64ooh.jpg">
+  <img src ="http://prntscr.com/e64ooh.png"/>
 
-<id ="Markdown">
+<id ="Markdown"/>
 ###III. Markdown.
 
 <id ="Nội dung2">
