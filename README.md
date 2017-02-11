@@ -33,7 +33,7 @@
 <id ="Github">
 ###I. Github. 
 
- <img src ="http://prntscr.com/e6ed4u">
+ <img src ="http://prntscr.com/e6ed4u.jpg">
 
 <id ="Nội dung1">
 ####1. Nội dung.
@@ -51,12 +51,12 @@
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
  - Vào tài khoản của bạn.  
 
-  <img src ="http://prntscr.com/e64meb">
+  <img src ="http://prntscr.com/e64meb.jpg">
 
  - Nhấp vào dấu cộng và chọn **New repository**.
  - Màn hình hiện lên.
 
-  <img src ="http://prntscr.com/e64o3u">
+  <img src ="http://prntscr.com/e64o3u.jpg">
 
  - Phần **Repository name** bạn điền tên kho bạn muốn tạo. Mình đặt là `Web_dev`.
  - Có hai tùy chọn là **Punlic** nghĩa là mọi người đều có thể thấy nội dung của repository này, còn **Private** là chỉ mình bạn xem được nội dung này.
@@ -64,7 +64,7 @@
  - Cuối cùng bạn nhấp vào **Create repository** .
  - Như vậy là repository `Web_dev` đã được cài đặt thành công.
 
-  <img src ="http://prntscr.com/e64ooh">
+  <img src ="http://prntscr.com/e64ooh.jpg">
 
 <id ="Markdown">
 ###III. Markdown.
@@ -223,22 +223,22 @@ Kết quả là:
 
 - Vào đường linh https://www.sublimetext.com/3 để Download file tương ứng với máy bạn đang dùng.
 
-<img src="http://prntscr.com/e6fr6f">
+<img src="http://prntscr.com/e6fr6f.jpg">
 
 - Tải về và cài mặc định.
 - Chúng ta phải cài thêm [Package Control](https://packagecontrol.io/)
 cho Sublime Text. Hướng dẫn cài đặt **Package Control** tại https://www.youtube.com/watch?v=sy0jf7TJTCM&t=36s.
 - Giờ chúng ta bật **Sublime Text** lên và trong phần **Preferences** chúng ta chọn **Package Control**.
 
-<img src="http://prntscr.com/e6fr8l">
+<img src="http://prntscr.com/e6fr8.jpg">
 
 - Sau đó ta chọn **Install Package**
 
-<img src="http://prntscr.com/e6fr9i">
+<img src="http://prntscr.com/e6fr9i.jpg">
 
 - Giờ ta chỉ cần gõ các công cụ hỗ trợ như **ExportHTML, MarkdownPreview,...** và chọn là song.
 
-<img src="http://prntscr.com/e6fra5">
+<img src="http://prntscr.com/e6fra5.jpg">
 
 <id="cong cu">
 
@@ -248,19 +248,19 @@ cho Sublime Text. Hướng dẫn cài đặt **Package Control** tại https://w
 
 [Stackedit](https://stackedit.io/editor)
 
-<img src ="http://prntscr.com/e70l1u">
+<img src ="http://prntscr.com/e70l1u.jpg">
 
 <id="2">
 
 [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
-<img src="http://prntscr.com/e70ll2">
+<img src="http://prntscr.com/e70ll2.jpg">
 
 <id="3">
 
 [Tablesgenerator](http://www.tablesgenerator.com/markdown_tables)
 
-<img src="http://prntscr.com/e70lt7">
+<img src="http://prntscr.com/e70lt7.jpg">
 
 ---
 ## Hoàn thành Task 01
