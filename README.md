@@ -30,9 +30,9 @@
 
 <id ="Github">
 ###I. Github. 
-  
+
  <img src ="http://1.bp.blogspot.com/-3oZ7k46VeG4/Vk0d1nmNODI/AAAAAAAAC20/3B1E5A8BDC4/s1600/hinh-anh-dep-ve-dong-vat..jpg"> 
- <img src ="http://prntscr.com/e6ed4u.jpg">
+ <img src ="http://prntscr.com/e6ed4u..jpg">
 
 <id ="Nội dung1">
 ####1. Nội dung.
