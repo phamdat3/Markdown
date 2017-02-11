@@ -31,8 +31,7 @@
 <id ="Github">
 ###I. Github. 
 
- <img src ="http://1.bp.blogspot.com/-3oZ7k46VeG4/Vk0d1nmNODI/AAAAAAAAC20/3B1E5A8BDC4/s1600/hinh-anh-dep-ve-dong-vat..jpg"> 
- <img src ="http://prnt.sc/e6ed4u.jpg">
+ <img src ="https://2.bp.blogspot.com/-XK_JfKB1lao/V1krlH5ihyI/AAAAAAAAAy8/nCeUfXPlfKo-MgU7aY6GgimeRcoy5T_IwCLcB/s1600/Github.jpg">
 
 <id ="Nội dung1">
 ####1. Nội dung.
@@ -50,7 +49,7 @@
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
  - Vào tài khoản của bạn.  
 
-  <img src ="http://prntscr.com/e64meb.png"/>
+  <img src ="https://www.facebook.com/photo.php?fbid=1828907477381692&set=a.1439646746307769.1073741831.100007873712532&type=3"/>
 
  - Nhấp vào dấu cộng và chọn **New repository**.
  - Màn hình hiện lên.
