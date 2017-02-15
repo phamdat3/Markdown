@@ -220,22 +220,22 @@ Kết quả là:
 
 - Vào đường linh https://www.sublimetext.com/3 để Download file tương ứng với máy bạn đang dùng.
 
-<img src="http://prntscr.com/e6fr6f.jpg">
+<img src="http://imageshack.com/a/img922/7426/9AfF1R.png">
 
 - Tải về và cài mặc định.
 - Chúng ta phải cài thêm [Package Control](https://packagecontrol.io/)
 cho Sublime Text. Hướng dẫn cài đặt **Package Control** tại https://www.youtube.com/watch?v=sy0jf7TJTCM&t=36s.
 - Giờ chúng ta bật **Sublime Text** lên và trong phần **Preferences** chúng ta chọn **Package Control**.
 
-<img src="http://prntscr.com/e6fr8.jpg">
+<img src="http://imageshack.com/a/img922/8483/N1TCMl.png">
 
 - Sau đó ta chọn **Install Package**
 
-<img src="http://prntscr.com/e6fr9i.jpg">
+<img src="http://imageshack.com/a/img923/518/wkb7Th.png">
 
 - Giờ ta chỉ cần gõ các công cụ hỗ trợ như **ExportHTML, MarkdownPreview,...** và chọn là song.
 
-<img src="http://prntscr.com/e6fra5.jpg">
+<img src="http://imageshack.com/a/img923/5683/8H4DzJ.png">
 
 <a name="6"></a>
 
