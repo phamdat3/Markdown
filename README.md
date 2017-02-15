@@ -6,7 +6,7 @@
 
 ## Mục lục 
 
-<a href="#Github">1.Github</a>
+[1.Github](#1)
   <ul>
     <li><a href="#Nội dung1">Nội dung</a></li>
     <li><a href="#Công dụng1">Công dụng</a></li>
@@ -28,7 +28,7 @@
 
 ## Nội dung.
 
-<id ="Github">
+<a name="1"></a>
 ###I. Github. 
 
  <img src ="https://2.bp.blogspot.com/-XK_JfKB1lao/V1krlH5ihyI/AAAAAAAAAy8/nCeUfXPlfKo-MgU7aY6GgimeRcoy5T_IwCLcB/s1600/Github.jpg">
