@@ -8,22 +8,22 @@
 
 [1.Github](#1)
   <ul>
-    <li><a href="#Nội dung1">Nội dung</a></li>
-    <li><a href="#Công dụng1">Công dụng</a></li>
+    <li>[Khái niệm](#1.1)</li>
+    <li>[Công dụng](#1.2)</li>
   </ul>
-<a href="#repository1">2.Tạo repository đặt tên là `Web_dev`</a> 
-<a href="#Markdown">3.Markdown</a> 
+[2.Tạo repository đặt tên là `Web_dev`](#2)
+[3.Markdown](#3)
   <ul>
-   <li><a href="#Nội dung2">Nội dung</a></li>
-   <li><a href="#Công dụng2">Công dụng</a></li>
+   <li>[Khái niệm](#3.1)</li>
+   <li>[Công dụng](#3.1)</li>
   </ul>
-<a href="#cu phap">4.Cú pháp thường gặp</a> 
-<a href="#cài đặt">5.Cài đặt Sublime text</a> 
-<a href="#cong cu">6.Các công cụ viết Markdown khác</a>
+[4.Cú pháp thường gặp](#4)
+[5.Cài đặt Sublime text](#5)
+[6.Các công cụ viết Markdown khác](#6)
   <ul>
-    <li><a href="#1">Stackedit</a></li>
-    <li><a href="#2">Jbt</a></li>
-    <li><a href="#3">Tablesgenerator</a></li>
+    <li>[Stackedit](#6.1)</li>
+    <li>[Jbt](#6.2)</li>
+    <li>[Tablesgenerator](#6.3)</li>
   </ul>
 
 ## Nội dung.
