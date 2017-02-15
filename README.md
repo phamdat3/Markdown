@@ -11,15 +11,15 @@
     <li>[Khái niệm](#1.1)</li>
     <li>[Công dụng](#1.2)</li>
   </ul>
-[2.Tạo repository đặt tên là `Web_dev`](#2)
+[2.Tạo repository đặt tên là `Web_dev`](#2)  
 [3.Markdown](#3)
   <ul>
    <li>[Khái niệm](#3.1)</li>
    <li>[Công dụng](#3.1)</li>
   </ul>
-[4.Cú pháp thường gặp](#4)
-[5.Cài đặt Sublime text](#5)
-[6.Các công cụ viết Markdown khác](#6)
+[4.Cú pháp thường gặp](#4)  
+[5.Cài đặt Sublime text](#5)      
+[6.Các công cụ viết Markdown khác](#6)   
   <ul>
     <li>[Stackedit](#6.1)</li>
     <li>[Jbt](#6.2)</li>
@@ -33,17 +33,17 @@
 
  <img src ="https://2.bp.blogspot.com/-XK_JfKB1lao/V1krlH5ihyI/AAAAAAAAAy8/nCeUfXPlfKo-MgU7aY6GgimeRcoy5T_IwCLcB/s1600/Github.jpg">
 
-<id ="Nội dung1">
-####1. Nội dung.
+<a name="1.1"></a>
+####1. Khái niệm.
 
  GitHub là kho lưu trữ các mã nguồn mở, tài liệu.
 
-<id ="Công dụng1">
+<a name="1.2"></a>
 ####2. Công dụng.
 
  GitHub chủ yếu được sử dụng để lưu trữ mã nguồn phần mềm, nhưng cũng thường được sử dụng với nhiều loại tập tin.
 
-<id ="repository1">
+<a name="2"></a>
 ###II. Tạo repository đặt tên là `Web_dev`.
 
  - Đầu tiên bạn hãy tạo một tài khoản github trên https://github.com/.
@@ -64,20 +64,20 @@
 
   <img src ="http://prntscr.com/e64ooh.png"/>
 
-<id ="Markdown"/>
+<a name="3"></a>
 ###III. Markdown.
 
-<id ="Nội dung2">
-####1. Nội dung.
+<a name="3.1"></a>
+####1. Khái niệm.
 
   Markdown là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành HTML và nhiều định dạng khác.
 
-<id ="Công dụng2">
+<a name="3.2"></a>
 ####2. Công dụng.
 
  Markdown dùng để tạo các tập tin readme, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
 
-<id ="cu phap">
+<a name="4"></a>
 ###IV. Cú pháp thường gặp.
 
 ####1. Thẻ tiêu đề
@@ -215,7 +215,7 @@ Kết quả là:
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
-<id="cài đặt">
+<a name="5"></a>
 ###V. Cài đặt Sublime text
 
 - Vào đường linh https://www.sublimetext.com/3 để Download file tương ứng với máy bạn đang dùng.
@@ -237,21 +237,21 @@ cho Sublime Text. Hướng dẫn cài đặt **Package Control** tại https://w
 
 <img src="http://prntscr.com/e6fra5.jpg">
 
-<id="cong cu">
+<a name="6"></a>
 
 ###VI. Tìm hiểu các công cụ viết markdown khác
 
-<id="1">
+<a name="6.1"></a>
 [Stackedit](https://stackedit.io/editor)
 
 <img src ="http://4.bp.blogspot.com/-hs3_SsTZFgw/UsKTTtNWqiI/AAAAAAAArPE/dB4cAkuicSc/s1600/StackEdit.png">
 
-<id="2">
+<a name="6.2"></a>
 [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
 <img src="https://camo.githubusercontent.com/34f55bf1b3200576253cfd348ff20a35e1e946c1/687474703a2f2f686f6d65706167652e756e697669652e61632e61742f7765726e65722e726f6269747a612f6d61726b646f776e2f73637265656e73686f742e706e67">
 
-<id="3">
+<a name="6.3"></a>
 [Tablesgenerator](http://www.tablesgenerator.com/markdown_tables)
 
 <img src="http://pic.accessify.com/thumbnails/777x423/t/tablesgenerator.com.png">
